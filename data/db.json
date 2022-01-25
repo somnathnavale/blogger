@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first Post",
+      "dateTime": "July 01, 2021 11:14:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis cum corporis ullam recusandae accusantium ipsum fugiat inventore. Consequatur, repellendus sequi!"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "dateTime": "July 01, 2021 11:15:46 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis cum corporis ullam recusandae accusantium ipsum fugiat inventore. Consequatur, repellendus sequi!"
+    },
+    {
+      "id": 3,
+      "title": "post three",
+      "body": "kdbcksbdc sdkcbkjsbc ",
+      "dateTime": "January 24 2022 7:37:04 PM"
+    }
+  ]
+}
