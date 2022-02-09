@@ -2,21 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "My first Post",
-      "dateTime": "July 01, 2021 11:14:36 AM",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis cum corporis ullam recusandae accusantium ipsum fugiat inventore. Consequatur, repellendus sequi!"
+      "title": "My first Post updated",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis cum corporis ullam recusandae accusantium ipsum fugiat inventore. Consequatur, repellendus sequi!",
+      "dateTime": "February 09 2022 1:17:02 PM"
     },
     {
       "id": 2,
-      "title": "My Second Post",
-      "dateTime": "July 01, 2021 11:15:46 AM",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis cum corporis ullam recusandae accusantium ipsum fugiat inventore. Consequatur, repellendus sequi!"
+      "title": "My Second Post updated",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis cum corporis ullam recusandae accusantium ipsum fugiat inventore. Consequatur, repellendus sequi!",
+      "dateTime": "February 09 2022 2:25:38 PM"
     },
     {
       "id": 3,
-      "title": "post three",
-      "body": "kdbcksbdc sdkcbkjsbc ",
-      "dateTime": "January 24 2022 7:37:04 PM"
+      "title": "third post",
+      "body": "this is third post by me its time to make changes in blog website like adding more button read more.",
+      "dateTime": "January 25 2022 9:34:42 AM"
     }
   ]
 }
