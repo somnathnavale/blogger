@@ -8,7 +8,7 @@ export const DataProvider=({children})=>{
     const [posts,setPosts]=useState([]);
     const [search,setSearch]=useState('');
     const [searchResults,setSearchResults]=useState([]);
-    const {data,fetchError, isLoading}=useAxiosFetch('https://bloogerbay.herokuapp.com/posts') //localhost
+    const {data,fetchError, isLoading}=useAxiosFetch('/') //localhost
 
     useEffect(()=>{
         setPosts(data);
