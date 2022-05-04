@@ -21,10 +21,10 @@ export const DataProvider=({children})=>{
             } catch (error) {
                 setFetchError(error.message)
             }finally{
-                isLoading(false);
+                setIsLoading(false);
             }
-            fetchPosts();
         }
+        fetchPosts();
     },[])
 
     useEffect(()=>{
