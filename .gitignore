@@ -1,2 +1,5 @@
 node_modules
 .env
+blogger/node_modules
+blogger/package-lock.json
+package-lock.json
