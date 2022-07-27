@@ -5,8 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix blogger && npm run build --prefix"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
