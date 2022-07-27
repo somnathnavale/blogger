@@ -23,9 +23,9 @@ app.use('/',router);
 
 if(process.env.NODE_ENV === "production"){
     app.use(express.static("blogger/build"));
-    // app.get('*',(req,res)=>{
-    //     res.sendFile(path.resolve(__dirname,'blogger','build','index.html'));
-    // })
+    app.get('*',(req,res)=>{
+        res.sendFile(path.resolve(__dirname,'blogger','build','index.html'));
+    })
 }
 
 app.listen(PORT,()=>{
